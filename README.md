@@ -1,5 +1,7 @@
 Comandos para rodar o Docker: https://github.com/JoaoTrevisam/Tabalho-Cloud.git
 
+cd Trabalho-Cloud
+
 cd API_Flask
 
 docker build -t flask-api .  
